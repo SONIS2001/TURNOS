@@ -40,7 +40,7 @@ public class ConexionesBaseDeDatos {
             cliente.setCuit(rs.getString("cuit"));
             cliente.setEmail(rs.getString("email"));
 
-            clientes.add(cliente);
+            pacientes.  (cliente);
         }
         rs.close();
 
@@ -175,6 +175,12 @@ public class ConexionesBaseDeDatos {
     private static class Paciente {
 
         public Paciente() {
+        }
+
+        private class rs {
+
+            public rs() {
+            }
         }
     }
 
