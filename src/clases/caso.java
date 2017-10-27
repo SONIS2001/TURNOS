@@ -10,5 +10,7 @@ package clases;
  * @author sonis
  */
 public class caso {
-    
+ public static void main(String[] arg) {
+     
+ }  
 }
